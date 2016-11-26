@@ -23,7 +23,7 @@ nav ul li::after {
 }
 main {
   padding-top: 90px;
-  background: url("images/outerspace_landscape.jpeg");
+  background: url("../images/outerspace_landscape.jpeg");
   background-size: cover;
 }
 .green-box {
