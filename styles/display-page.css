@@ -1,0 +1,30 @@
+
+
+*{
+	width: 800px;
+	font-size: 0;
+	border: 1px black solid;
+	margin: auto;
+	box-sizing: border-box;
+}
+
+div {
+	border: 1px black solid;
+	display: inline-block;
+	
+}
+
+.blue-block { background-color: blue; }
+.green-block { background-color: green; }
+.grey-block { background-color: grey; }
+.black-block { background-color: black; }
+.orange-block { background-color: orange; }
+.green-block, .blue-block {
+	height: 200px;
+	width: 50%;
+}
+.orange-block, .grey-block, .black-block {
+ 	height: 300px;
+ 	width: 33.33%;
+}
+
